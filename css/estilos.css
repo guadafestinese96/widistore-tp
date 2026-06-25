@@ -38,3 +38,24 @@
     --card-shadow: rgba(0,0,0,0.3);
     --card-shadow-hover: rgba(0,0,0,0.4);
 }
+
+.card-title{
+    min-height: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:center;
+    text-align: center;
+}
+
+/* .card-img-top{
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+    object-position: center;
+} */
+
+.card-body{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

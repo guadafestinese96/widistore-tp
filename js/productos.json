@@ -1,0 +1,23 @@
+[
+  { "id": 1, "nombre": "Armaf - Club de Nuit", "precio": 12000, "genero": "Masculino", "stock": 5 },
+  { "id": 2, "nombre": "Armani - Stronger With You", "precio": 15000, "genero": "Masculino", "stock": 5 },
+  { "id": 3, "nombre": "Armani - Acqua di Gio Profumo", "precio": 18000, "genero": "Masculino", "stock": 5 },
+  { "id": 4, "nombre": "Calvin Klein - One", "precio": 10000, "genero": "Masculino", "stock": 5 },
+  { "id": 5, "nombre": "Carolina Herrera - Bad Boy Extreme", "precio": 17000, "genero": "Masculino", "stock": 5 },
+  { "id": 6, "nombre": "Creed - Aventus", "precio": 35000, "genero": "Masculino", "stock": 5 },
+  { "id": 7, "nombre": "Dior - Sauvage", "precio": 22000, "genero": "Masculino", "stock": 5 },
+  { "id": 8, "nombre": "Paco Rabanne - Invictus", "precio": 16000, "genero": "Masculino", "stock": 5 },
+  { "id": 9, "nombre": "Tom Ford - Ombre Leather", "precio": 28000, "genero": "Masculino", "stock": 5 },
+  { "id": 10, "nombre": "Versace - Eros", "precio": 14000, "genero": "Masculino", "stock": 5 },
+
+  { "id": 11, "nombre": "Armani - My Way", "precio": 18000, "genero": "Femenino", "stock": 5 },
+  { "id": 12, "nombre": "Azzaro - Wanted Girl", "precio": 15000, "genero": "Femenino", "stock": 5 },
+  { "id": 13, "nombre": "Cacharel - Amor Amor", "precio": 12000, "genero": "Femenino", "stock": 5 },
+  { "id": 14, "nombre": "Carolina Herrera - La Bomba", "precio": 20000, "genero": "Femenino", "stock": 5 },
+  { "id": 15, "nombre": "Creed - Carmina", "precio": 34000, "genero": "Femenino", "stock": 5 },
+  { "id": 16, "nombre": "Givenchy - L'Interdit", "precio": 22000, "genero": "Femenino", "stock": 5 },
+  { "id": 17, "nombre": "Lancôme - La Vie Est Belle", "precio": 19000, "genero": "Femenino", "stock": 5 },
+  { "id": 18, "nombre": "Paco Rabanne - Olympea", "precio": 16000, "genero": "Femenino", "stock": 5 },
+  { "id": 19, "nombre": "Thierry Mugler - Alien", "precio": 21000, "genero": "Femenino", "stock": 5 },
+  { "id": 20, "nombre": "Yves Saint Laurent - Mon Paris", "precio": 23000, "genero": "Femenino", "stock": 5 }
+]
