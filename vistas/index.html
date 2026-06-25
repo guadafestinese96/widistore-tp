@@ -69,16 +69,27 @@
     <main
       class="container d-flex flex-column align-items-center justify-content-center m-2 min-vh-100"
     >
-      <p>BIENVENIDO nombre</p>
+      <h2 class="text-center mb-4">Bienvenido/a</h2>
+
+      <form id="formBienvenida" class="d-flex flex-column align-items-center">
+        <input
+          type="text"
+          placeholder="Ingresa tu nombre"
+          id="inputNombre"
+          class="mb-4 form-control"
+          required
+        />
+
+        <button type="submit" class="btn btn-success mb-4">Continuar</button>
+      </form>
+
       <button
         type="button"
-        class="btn btn-success mb-4"
-        onclick="window.location.href = 'productos.html'"
+        class="btn btn-secondary"
+        onclick="window.location.href = 'login.html'"
       >
-        Continuar
+        Ingresar como administrador
       </button>
-
-      <button type="button" class="btn btn-secondary" onclick="window.location.href='login.html'">Ingresar como administrador</button>
     </main>
 
     <footer
@@ -93,5 +104,6 @@
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
+    <script src="../js/ingresoNombre.js"></script>
   </body>
 </html>
